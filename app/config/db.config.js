@@ -1,3 +1,5 @@
 module.exports = {
-    url: "mongodb://localhost:27017/myauthdb    "
+    HOST: "localhost",
+    PORT: 27017,
+    DB: "dipkoder_db"
 };
